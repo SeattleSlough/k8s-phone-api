@@ -1,15 +1,15 @@
 variable "git-name" {
-  default = "pol-ayt"
+  default = "maggs"
 }
 
 variable "git-token" {
-  default = "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"
+  default = ""
 }
 
 variable "key-name" {
-  default = "polat"
+  default = "core"
 }
 
 variable "hosted-zone" {
-  default = "clarusway.us"
+  default = "infinitelyloopy.com"
 }
