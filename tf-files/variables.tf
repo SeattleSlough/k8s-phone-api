@@ -2,9 +2,7 @@ variable "git-name" {
   default = "maggs"
 }
 
-variable "git-token" {
-  default = ""
-}
+# add git-token variable here
 
 variable "key-name" {
   default = "core"
